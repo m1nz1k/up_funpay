@@ -1,2 +1,2 @@
-Фриланс проект для поднятия объявлений по продаже товара.
-Используется Selenium
+Freelance project for raising advertisements for the sale of goods.
+Uses Selenium
